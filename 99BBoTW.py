@@ -13,4 +13,4 @@ if i == 1:
 	print str(i)+" bottle of beer on the wall"
 	print str(i)+" bottle of beer"
 	print "You take one down, pass it around"
-	print"No more bottles of beer on the wall gittest changed"
+	print"No more bottles of beer on the wall gittst changed"
